@@ -1,8 +1,8 @@
-#Local terminal configutration
+# Local terminal configutration
 
 First install TMUX and Oh_my_zsh
 
-##BASH
+## BASH
 - In .bash.rc add at the end
 `[[ $TERM != "screen" ]] && exec tmux`
 
