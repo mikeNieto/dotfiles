@@ -11,4 +11,4 @@ First install TMUX and Oh_my_zsh
 
 - Then copy from the zsh the file `.zshrc` to the home folder
 
-- Finally copy the content pf the `custom` forder to the `.oh-my-zsh/custom` folder
+- Finally copy the content of the `custom` forder to the `.oh-my-zsh/custom` folder
