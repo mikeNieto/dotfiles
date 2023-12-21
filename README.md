@@ -1,4 +1,4 @@
-# Local terminal configutration
+# Local terminal configuration
 
 First install TMUX and Oh_my_zsh
 
